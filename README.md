@@ -20,7 +20,7 @@ An open ecosystem where people can freely use, transact and create applications 
 
 - Bidao-Ethereum Bridge
 
-![ethbridge](https://github.com/wanglonghong/Bidao/main/ethbridge.jpg?raw=true)
+![ethbridge](https://github.com/wanglonghong/Bidao/blob/main/ethbridge.jpg?raw=true)
 
 Peggy is the starting point for cross chain value transfers from the Ethereum blockchain to Bid blockchain 
 as part of the Ethereum Cosmos Bridge project. 
